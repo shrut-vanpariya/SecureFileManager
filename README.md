@@ -35,5 +35,3 @@ The features of this project include:
 # Team Details
 This project was developed by
 * SHRUT (21bce314@nirmauni.ac.in)
-* YAGNIK (21bce321@nirmauni.ac.in)
-* ANKUSH (21bce319@nirmauni.ac.in)
